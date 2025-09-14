@@ -16,7 +16,7 @@ Program ini adalah implementasi dari algoritma Hill Cipher yang memiliki tiga fi
 Berikut adalah screenshot dari setiap fungsionalitas program:
 
 **1. Tampilan Menu Utama**
-![Menu Utama](link-ke-gambar-menu.png)
+![Menu Utama](https://github.com/faizmuzaky1/230044-Kripto25/blob/main/Tugas2/screenshot/Hasil_Cari_kunci.png?raw=true)
 
 **2. Contoh Proses Enkripsi**
 ![Proses Enkripsi](link-ke-gambar-enkripsi.png)
