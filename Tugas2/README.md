@@ -19,7 +19,7 @@ Berikut adalah screenshot dari setiap fungsionalitas program:
 ![Proses Enkripsi](https://github.com/faizmuzaky1/230044-Kripto25/blob/main/Tugas2/screenshot/Hasil_Cari_kunci.png?raw=true)
 
 **2. Contoh Proses Dekripsi**
-![Proses Dekripsi](link-ke-gambar-dekripsi.png)
+![Proses Dekripsi](https://github.com/faizmuzaky1/230044-Kripto25/blob/main/Tugas2/screenshot/Hasil_Dekripsi.png?raw=true)
 
 **3. Contoh Proses Pencarian Kunci**
 ![Pencarian Kunci](link-ke-gambar-cari-kunci.png)
